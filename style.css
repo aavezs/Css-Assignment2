@@ -1,0 +1,54 @@
+@font-face {
+  font-family: Games of Thrones;
+  src: url(GameofThrones.tff) format("truetype");
+
+}
+
+
+body {
+  font-family: 'Games of Thrones';
+  background-color: #e6e6e6;
+  text-align: center;
+}
+
+header {
+  padding: 50px 0;
+}
+.contanier
+{
+    width: 90%;
+    height: auto;
+    border: 7px solid rgba(170, 162, 162, 0.4);
+    position: relative;
+    background: none;
+    backdrop-filter: blur(10px);
+    
+}
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 70px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 30px;
+  margin: 0;
+}
+
+main {
+  padding: 50px;
+}
+
+h3 {
+  font-size: 25px;
+  margin: 50px 0;
+}
+
+p {
+  font-size: 20px;
+  margin: 0;
+}
+
+footer {
+  padding: 50px 0;
+}
